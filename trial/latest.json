@@ -1,0 +1,25 @@
+{
+  "version": "0.5.31",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK0JJSDM3NUVTcHRYWFNFTHZJbmVPMzFsY0phdkt2M2FaS2NPNHNydFliRTFBenVqY2RkclVzSDNwN1pMVWVtZ3BhVXJNYnMrWmRxdmE2bVRRcEg4d1F5eVMyRThLUHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM1MjgyCWZpbGU6QUktTWVlLUJ1enotMC41LjMxLWJlNjI0ZDU3LWZpbmFsLmFwcC50YXIuZ3oKZDdFSmIwQjhSbWhLKzRLdlRsb05nQzdCMGpjb1NkYmQ1dFpOYlJwOUk4OFh4U3o4OTkyeDUzaUlITEJCUUNVZWN0cjV4TlFKZ3p2QVk2Ykp2STErQUE9PQo=",
+      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-buzz-v0.5.31/AI-Mee-Buzz-0.5.31-be624d57-final.app.tar.gz"
+    }
+  },
+  "browser": {
+    "bundleId": "xyz.block.buzz.browser",
+    "productName": "AI-Mee Buzz",
+    "target": "darwin-aarch64",
+    "architecture": "arm64",
+    "executables": [
+      "AI-Mee Buzz",
+      "git-credential-nostr"
+    ],
+    "channel": "browser-stable",
+    "sourceSha": "be624d57aed1feeafacb3054387044329c6d349e",
+    "endpoint": "https://raw.githubusercontent.com/Long-Vo23/ai-mee-buzz-updates/main/trial/latest.json",
+    "updaterPublicKeySha256": "612eb4858739515d0465e5dcf12b419163358f406da54fb7cec22a31adeda4dd",
+    "archiveSha256": "d372b22cce7cb7d6e879a163dad4d31b5c5b71c3f2d8be4d2ed3ad73af053f0e",
+    "version": "0.5.31"
+  }
+}

@@ -1,9 +1,9 @@
 {
-  "version": "0.5.34",
+  "version": "0.5.35",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK0JJSDM3NUVTcGx4UGFBRHFTTS9GUjBKRTJYQXZuaFhiYXZESUltSWpKbUpEcDE3YldtQng5dGpvTFJXZnFaNEt0TDFnZEZrQVN1TXh2dm5LTnhOR2wyVE1WNDJ0eHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDE2MTAzCWZpbGU6QUktTWVlLUJ1enotMC41LjM0LTNhN2U2NGUwLWZpbmFsLmFwcC50YXIuZ3oKQzU2OEIwK3JJajc3ZURlVnBYMGhvNFBpWUhZYmZYeEliQWZnVElVTHFZemdHaElkTmZ4V0hPN1VQYXNOa1NJUXdTNVVGQ1FnNjBFNk41YTVJUWxyQXc9PQo=",
-      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-buzz-v0.5.34/AI-Mee-Buzz-0.5.34-3a7e64e0-final.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK0JJSDM3NUVTcHAzTGtRdWF2ZFdLYmNFTVd6NnFkV3p3N3VJRU1QTFVLZ3BYMDYrYWZYQVdscEdUcm1YN1dxRzB1TUZ0azhmdzlTNEZEdk9EZHIzTzhnUTVaZ0pQYlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDI1OTM4CWZpbGU6QUktTWVlLUJ1enotMC41LjM1LTc4MWE4ZTA0LWZpbmFsLmFwcC50YXIuZ3oKYUpxcXNLazNmOTNPTTMxUW96NnNZanhkV3dzOWczSitIRnk4OTI2QXBhNSswZElJdnJIa3g2VWE0Z25iZHUxV3BwdnZuY2RpQ25Ya0JmbHorRTAxQnc9PQo=",
+      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-buzz-v0.5.35/AI-Mee-Buzz-0.5.35-781a8e04-final.app.tar.gz"
     }
   },
   "browser": {
@@ -16,10 +16,10 @@
       "git-credential-nostr"
     ],
     "channel": "browser-stable",
-    "sourceSha": "3a7e64e0e919dbe3fafd4d7bb889eb397dedb8a0",
+    "sourceSha": "781a8e04b925d987dcbac38fb5513192d90812ba",
     "endpoint": "https://raw.githubusercontent.com/Long-Vo23/ai-mee-buzz-updates/main/latest.json",
     "updaterPublicKeySha256": "612eb4858739515d0465e5dcf12b419163358f406da54fb7cec22a31adeda4dd",
-    "archiveSha256": "1e1fe856d001b86d38baaab94298f2e9e28b2462ca2a5bb987a9c7c0c31dbe4e",
-    "version": "0.5.34"
+    "archiveSha256": "aff7f4d4f8c12e128b46e51078761a58cc8a3221bf7d87d4cb501c2e3731d34e",
+    "version": "0.5.35"
   }
 }

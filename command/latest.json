@@ -1,0 +1,10 @@
+{
+  "version": "1.0.3",
+  "notes": "AI-Mee Command 1.0.3 updater probe from reviewed source 2d056299.",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY1BPYXdYSVEvS1ZDQ3dwVUxqTHRtODJseDVqRjhzTXExU3YrT1k1Z25XQzM0Y3R6akpuYVIwcWVDM0g0WDFPVmd3dE8wajl4ekFNWVQzdDFjRU5FQ3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzI2MzAwCWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjMtMmQwNTYyOTktZmluYWwuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4zCm5JYmZieE8rOEtuOEhpVXNXdUVtZlNpcUpQNVlOREJ6MlF2UGV4clZGRzAwOS81YmZRbk5mcTU3RkhqMHJoZE9tS1V4cjJXNldSMDJSbkd1Nyt1dkJ3PT0K",
+      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.3/AI-Mee-Command-1.0.3-2d056299-final.app.tar.gz"
+    }
+  }
+}

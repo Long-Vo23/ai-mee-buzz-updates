@@ -1,11 +1,11 @@
 {
-  "version": "1.0.8",
-  "notes": "Restores plain HTTP website compatibility on macOS. Installed Browser blank-tab recovery and notification-icon acceptance remain open.",
-  "pub_date": "2026-11-16T11:51:17.711837Z",
+  "version": "1.0.9",
+  "notes": "Keeps Browser in the independent channel column, corrects the blank side-panel layout, preserves the Reload icon and adds explicit recovery of earlier saved tabs. Owner-installed Browser and notification acceptance remain open.",
+  "pub_date": "2026-11-16T13:11:34.091347Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY040OEo2cm5SQVV5a05LQjl5MUFlUnFub3dPRFdvRlRuQytTNG55TExTejllS2cyOVkzcUdqNEc3Rlc3M1hsSE93V0pGcmFDOGIvRzlSMXhlaW1BTXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI5Nzc1CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjgtZGYxMDgzNzYuYXBwLnRhci5negl2ZXJzaW9uOjEuMC44CjQrK3VuNEhJblZEUFNnNjhqVVYzeHBGRUsvbGtBanpKcHZhSklHMDF5N0NON29yWm9yNlpyT2pKWEZlVVhYYlpNNTlmYWRkdXJHYmtMZVJXMkhOeENBPT0K",
-      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.8/AI-Mee-Command-1.0.8-df108376.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY1Bia04raWJhNTFWQkloU3NUbmQyKzdnU0pscm4yUDk5RXp4S1p0Y28xajFlS1BXTTk3cVBOcGxGdS9UejlxKzJCaG5OcHROY09xdDdMNU41WW9HYnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODM0NjQwCWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjktYzUzNjAyNzYuYXBwLnRhci5negl2ZXJzaW9uOjEuMC45CnFENE5MMURHUnl2RnZleUp5WjBmc1RZZ0txL2w2ekRwa1d0YW9qLzhqcHBubG9iS1pMYXlVYlE2WkZDTEI3QVJnMXBLdUx3ZEQ0UjhaYU5CeWZsQkNRPT0K",
+      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.9/AI-Mee-Command-1.0.9-c5360276.app.tar.gz"
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "notes": "Browser tabs, bookmarks and homepage; agent environment/import controls, history preferences, Codex plugin settings and managed Git fixes.",
-  "pub_date": "2026-11-16T06:25:31.443584Z",
+  "version": "1.0.6",
+  "notes": "Fix Browser missing from Manage plugins and the Messages sidebar after 1.0.5. Includes the existing tabs, split browsing, bookmarks and homepage features.",
+  "pub_date": "2026-11-16T07:44:37.661809Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY0VmbElzdUlib28weXY5QU0vYWVwc3VzQjN3ay8wdC8xb2tuV041N0pnUklMM3NkWlFEWFBGU2o1eVM2WVdUSGV4ZkdZR1FzZWozRmI1V3V1R1V6QVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA5MjEzCWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjUtZTIzZjFmY2UtZmluYWwuYXBwLnRhci5negl2ZXJzaW9uOjEuMC41ClFvZ2hJTUQ0NjJUZEZNRXZFVVhmVnN3NDM5WkxSV2hFcHBXSXdaTzd4ZXJnWkR1OVVIWHhhV2dJaEFlVlMxMzFqcGo5VnlmVGhHaDdtMlZQblBkSUNnPT0K",
-      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.5/AI-Mee-Command-1.0.5-e23f1fce-final.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY09PZlVzNFZFOXo1ZW1BZ3FJdTM4Q0NHSUdxcEQ4VjRkdWlaSzdBSGg1WitvNlVCMUVvOXB6MnhYR1Z0bTVhNDlqU2hmVTBzZTZBN1lPOGhma1NYMkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODE0OTkyCWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjYtNmI2ODBiZWItZmluYWwuYXBwLnRhci5negl2ZXJzaW9uOjEuMC42CjlRUmdiV3BzNGgxMEMwOFJMWEJvRXJGc3l1Nm1oVy8xV24zM3haTGc1NVpMcHNhc29RUklwVXVIRklmd1d3ZFNWSmRrdzdvd1NvT0xHdnRUK2lyQ0JBPT0K",
+      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.6/AI-Mee-Command-1.0.6-6b680beb-final.app.tar.gz"
     }
   }
 }

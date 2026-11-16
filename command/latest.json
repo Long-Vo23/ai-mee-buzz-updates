@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "notes": "Fix Browser missing after 1.0.5. Packaging revision 2 removes macOS metadata entries that prevented the original 1.0.6 updater archive from unpacking. The signed, notarized app is unchanged.",
-  "pub_date": "2026-11-16T08:25:26.779789Z",
+  "version": "1.0.7",
+  "notes": "Browser correction: independent panel beside thread chat, top-and-bottom split, bookmark star, saved-tab recovery and primary page navigation layout. Native Browser and notification-icon acceptance remain open.",
+  "pub_date": "2026-11-16T10:17:24.179265Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY0xzN3UrTmx6Mjh2ZmpyWGlKd3dKZWhqUWpSQ0xwMUNkeFpBT2ttUHRod1RHZW9DWEIwN2lyTnVJb0c2N0w3N2tZN1JrY1Y5R1lwMjNKVHduNlQ3b1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODE3NDc1CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjYtNmI2ODBiZWItdXBkYXRlci1yMi5hcHAudGFyLmd6CXZlcnNpb246MS4wLjYKZk93OWQ5NlRJR2VsY052dFdWNjNpakludDRLV0hkNkdIRHVIYVlaVDJGNDJUWFptRDhWUU1sNTVUbTVVaUwrNk5ZVXMremhOUnhjTFpaOFpSMnNnQmc9PQo=",
-      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.6-r2/AI-Mee-Command-1.0.6-6b680beb-updater-r2.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY09qVjNESFUrM2h0MEk3YzVJUUVIR21MakUwZ3dsT0hWMit6NHJYRTlnaWNLR095R3dZZ1haTm13WkNJSmZQNFl4S3hnL2NSMjM1RjZOcWlZdnN2ekFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI0MjAwCWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjctODAyZjRmYjEuYXBwLnRhci5negl2ZXJzaW9uOjEuMC43Ckh0SU9mV2ZOREQxK2xwZklWYjd0VHRXWjBhdGFGSVk4LzVJUVVFOFV6V25CTVY5b1g4TTZ1QjVqV0RaOUVEZUhiZXVjblBSV005OWQ0c3RFQm1OTENnPT0K",
+      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.7/AI-Mee-Command-1.0.7-802f4fb1.app.tar.gz"
     }
   }
 }

@@ -1,11 +1,10 @@
 {
-  "version": "1.0.13",
-  "notes": "Adds community and Activity unread counts, thread highlighting, message search, richer emoji, file viewing and Mac spelling support, while preserving Command subscription accounts and Browser controls. Nightly review remains opt-in. Known limitations: intermittent real-site Save behavior and emoji test failures remain under investigation; live search compatibility and installed acceptance remain pending.",
-  "pub_date": "2026-11-17T11:16:02.380538Z",
+  "version": "1.0.14",
+  "notes": "Fixes the first address submission from a loaded Browser tab, prevents an unwanted Save prompt, and keeps playback running when switching views.",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY0lWbzJxRFluZlcyakV6Y2t6b2hQK2l2ODQrMFZzRGlUMkdRTGNCVmlxbUoycGxYSTRaWGx4cGc5NG0vK1hJNFgrMDJzZHBLVmgya0JjVW5TRW14UFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTEzOTU3CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjEzLTM1Zjk1ZTkuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4xMwpQUk5EOTB3MlJua25kaWVFandZU1lYRWcyY0xZYW55STdHY2VtTXl5YUtqN2xpRE8waXVsQy8zNHZldE43SDgrOWxiekNVV1QxWmxDa0dRZEdUbnBCQT09Cg==",
-      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.13/AI-Mee-Command-1.0.13-35f95e9.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY1B5WkFJSEVnNU1JVlhTS2xFK1J4UitzcjI2dEZwYUllT0o1eTR1YkpSQXh3UUs0YU1hWG1kclJHRG8vNVVMQjNDOWIvUXQ5S3dYbmU0RFJtQTk5dHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQ1MDM3CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjE0LTFlNzUwYmYwLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMTQKTEM5ak9wTXRqTUlmUGNXRTg3QUVUZjBnMlFFd1JVNkp3aVFpMFN1dkQ4VGJvTHNpSnlmc3JDOFQxMFVTQWRFNnF4YlA1aUtOWnNrb2hzS1NnRVNxQWc9PQo=",
+      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.14/AI-Mee-Command-1.0.14-1e750bf0.app.tar.gz"
     }
   }
 }

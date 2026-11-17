@@ -1,11 +1,11 @@
 {
-  "version": "1.0.12",
-  "notes": "Fixes silent cancellation of long in-page redirects and split-edge Browser hints. Long addresses remain unsaved; restoring a tab may reopen its last shorter address. Pro Google/sign-in and broader clipping acceptance remain pending.",
-  "pub_date": "2026-11-17T08:00:05.823834Z",
+  "version": "1.0.13",
+  "notes": "Adds community and Activity unread counts, thread highlighting, message search, richer emoji, file viewing and Mac spelling support, while preserving Command subscription accounts and Browser controls. Nightly review remains opt-in. Known limitations: intermittent real-site Save behavior and emoji test failures remain under investigation; live search compatibility and installed acceptance remain pending.",
+  "pub_date": "2026-11-17T11:16:02.380538Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY1BuRlMzR1MxK1JxYXVtU1FMa0xXV05XMmRIQytkbDhjUUFaNXRsMVhQUzM0NlRMWnM4NFdKVzNYMTNOWVBlTWtaTElabyt1d0JvQTM2c3JnTUNQOWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODk5MTI3CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjEyLTczMzRhMGJlLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMTIKbXRGbnFsanFLMDhqdjlhT2syZEpiZ0JCbXRVc0FqN3pDSTZ3ZVVnQlErZmM5aVFyWWM1U3JpamNJNnQ2Q2c3TXRTWVJVVUhRT2hKMDFHa0tpTXEwQXc9PQo=",
-      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.12/AI-Mee-Command-1.0.12-7334a0be.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY0lWbzJxRFluZlcyakV6Y2t6b2hQK2l2ODQrMFZzRGlUMkdRTGNCVmlxbUoycGxYSTRaWGx4cGc5NG0vK1hJNFgrMDJzZHBLVmgya0JjVW5TRW14UFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTEzOTU3CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjEzLTM1Zjk1ZTkuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4xMwpQUk5EOTB3MlJua25kaWVFandZU1lYRWcyY0xZYW55STdHY2VtTXl5YUtqN2xpRE8waXVsQy8zNHZldE43SDgrOWxiekNVV1QxWmxDa0dRZEdUbnBCQT09Cg==",
+      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.13/AI-Mee-Command-1.0.13-35f95e9.app.tar.gz"
     }
   }
 }

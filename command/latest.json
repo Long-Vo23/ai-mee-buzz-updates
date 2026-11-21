@@ -1,10 +1,11 @@
 {
-  "version": "1.0.14",
-  "notes": "Fixes the first address submission from a loaded Browser tab, prevents an unwanted Save prompt, and keeps playback running when switching views.",
+  "version": "1.0.15",
+  "notes": "Updates to stable Buzz 1.0.6, fixes Codex community wakes to use the correct agent profile, and keeps the File Viewer. The old Todos panel has been removed. Existing items remain editable in the channel Canvas.",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY1B5WkFJSEVnNU1JVlhTS2xFK1J4UitzcjI2dEZwYUllT0o1eTR1YkpSQXh3UUs0YU1hWG1kclJHRG8vNVVMQjNDOWIvUXQ5S3dYbmU0RFJtQTk5dHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQ1MDM3CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjE0LTFlNzUwYmYwLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMTQKTEM5ak9wTXRqTUlmUGNXRTg3QUVUZjBnMlFFd1JVNkp3aVFpMFN1dkQ4VGJvTHNpSnlmc3JDOFQxMFVTQWRFNnF4YlA1aUtOWnNrb2hzS1NnRVNxQWc9PQo=",
-      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.14/AI-Mee-Command-1.0.14-1e750bf0.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY0VDWnh0TEZVU0JxTVJ2WmptK25XaDhVZmQ1OUh1M1p6YU81MEJwc1dMUjEvekdrelNNVHd6alRqZFlsT3hlZVdBTXU1dm9DUHVvdnpyOWFEcDc4d2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjA2NTg4CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjE1LTk1ZGQ3MGQyLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMTUKWHI0UU9sVUlNUnE2ekNKMjRzSHJ5NlJRVjhjNUxud0tSL09Nd2VVU0pCRWE2NXNDeTFJYjJaTWNrZmFwdTlBNVVPQ2RqbjBaVFVSbWpaWVVnUXFtQmc9PQo=",
+      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.15/AI-Mee-Command-1.0.15-95dd70d2.app.tar.gz"
     }
-  }
+  },
+  "pub_date": "2026-11-21T11:59:56Z"
 }

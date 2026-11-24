@@ -1,11 +1,11 @@
 {
-  "version": "1.0.15",
-  "notes": "Updates to stable Buzz 1.0.6, fixes Codex community wakes to use the correct agent profile, and keeps the File Viewer. The old Todos panel has been removed. Existing items remain editable in the channel Canvas.",
+  "version": "1.0.16",
+  "notes": "Eligible local agents set to Respond to → Anyone can receive mentions in channels they have joined, even when their owner is absent. Claude and Codex keep their existing owner-connection behavior.",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY0VDWnh0TEZVU0JxTVJ2WmptK25XaDhVZmQ1OUh1M1p6YU81MEJwc1dMUjEvekdrelNNVHd6alRqZFlsT3hlZVdBTXU1dm9DUHVvdnpyOWFEcDc4d2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjA2NTg4CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjE1LTk1ZGQ3MGQyLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMTUKWHI0UU9sVUlNUnE2ekNKMjRzSHJ5NlJRVjhjNUxud0tSL09Nd2VVU0pCRWE2NXNDeTFJYjJaTWNrZmFwdTlBNVVPQ2RqbjBaVFVSbWpaWVVnUXFtQmc9PQo=",
-      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.15/AI-Mee-Command-1.0.15-95dd70d2.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY0hKR3puRkNEb2p3bFpteXFLQmk3cEpheThQZXhDdzZQY2VFVFVGakM3WjFsRWhxcXJCUHJPWllsU2JZK21yNTFUZk83RzVrbjNqT2VRQVdjTUJKS1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg1NzI0CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjE2LTc3OWE2OGEwLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMTYKc1VSR2V0cUpvcW52M0FhZm53SjZOVlg1Ull2V1oxNENlbzRVV2J3SXMrdFd5K0RZdFh4aWJQQlpMd3F0NGpFdEZlODRqODRtbG5RdEVHWk1FOXVmQWc9PQo=",
+      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.16/AI-Mee-Command-1.0.16-779a68a0.app.tar.gz"
     }
   },
-  "pub_date": "2026-11-21T11:59:56Z"
+  "pub_date": "2026-11-24T02:02:39Z"
 }

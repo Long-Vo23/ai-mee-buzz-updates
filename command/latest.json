@@ -1,11 +1,11 @@
 {
-  "version": "1.0.16",
-  "notes": "Eligible local agents set to Respond to → Anyone can receive mentions in channels they have joined, even when their owner is absent. Claude and Codex keep their existing owner-connection behavior.",
+  "version": "1.0.17",
+  "notes": "Choose a saved Claude subscription per local Claude agent, or follow the active account in Settings → Claude.",
+  "pub_date": "2026-11-24T03:11:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY0hKR3puRkNEb2p3bFpteXFLQmk3cEpheThQZXhDdzZQY2VFVFVGakM3WjFsRWhxcXJCUHJPWllsU2JZK21yNTFUZk83RzVrbjNqT2VRQVdjTUJKS1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg1NzI0CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjE2LTc3OWE2OGEwLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMTYKc1VSR2V0cUpvcW52M0FhZm53SjZOVlg1Ull2V1oxNENlbzRVV2J3SXMrdFd5K0RZdFh4aWJQQlpMd3F0NGpFdEZlODRqODRtbG5RdEVHWk1FOXVmQWc9PQo=",
-      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.16/AI-Mee-Command-1.0.16-779a68a0.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY0IvSVhJUlkyQU1lRFJXZDJIZzRBbjlWNEkxVkU5MDhlMFFWUUg1dEYrYmhuM2pQZFBlT2tyMWEwekM4TUlLbnZPV0ZDM0xTZGNUVTRkWS9JNEIvYXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5ODY0CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjE3LTU4YTRkNTQzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMTcKZlgwbU5FUzdYRlgwWnpLdncxODNJeTE2YTBlWExYWjBOdmRsSnR2YjZVeU51bHlPRHVWZzhZejZZR3VwWlRzTHdBR0FSNnppTThqZkhLdDZrZ3ZlQXc9PQo=",
+      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.17/AI-Mee-Command-1.0.17-58a4d543.app.tar.gz"
     }
-  },
-  "pub_date": "2026-11-24T02:02:39Z"
+  }
 }

@@ -1,11 +1,11 @@
 {
-  "version": "1.0.17",
-  "notes": "Choose a saved Claude subscription per local Claude agent, or follow the active account in Settings → Claude.",
-  "pub_date": "2026-11-24T03:11:34Z",
+  "version": "1.0.18",
+  "notes": "Keeps your place when older thread replies load and preserves Jump to latest during a pending read.",
+  "pub_date": "2026-11-25T22:49:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY0IvSVhJUlkyQU1lRFJXZDJIZzRBbjlWNEkxVkU5MDhlMFFWUUg1dEYrYmhuM2pQZFBlT2tyMWEwekM4TUlLbnZPV0ZDM0xTZGNUVTRkWS9JNEIvYXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5ODY0CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjE3LTU4YTRkNTQzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMTcKZlgwbU5FUzdYRlgwWnpLdncxODNJeTE2YTBlWExYWjBOdmRsSnR2YjZVeU51bHlPRHVWZzhZejZZR3VwWlRzTHdBR0FSNnppTThqZkhLdDZrZ3ZlQXc9PQo=",
-      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.17/AI-Mee-Command-1.0.17-58a4d543.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY0tvS0daWml2MmZZRmNJOGk4ZUJqN21oMUlodldoN080MTBaZThKNWVVOEZHQTdGMm1rZmgzZjE5RjFjM28xNngyZ0lSZ0l4c0RralFqRWpuVllrNHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQ2ODcyCWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjE4LTM1MWUzOTdjLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMTgKVDlCMC8xT2VsenFmY3l3M0dldnc2K0tMYXdiOGVGTWJFQzVYWmd6dHB0a3ZkZWtJbjRqcncyUW9uampNNnZwQ200emNwME11aUh5ckZyenhmK2VqQ3c9PQo=",
+      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.18/AI-Mee-Command-1.0.18-351e397c.app.tar.gz"
     }
   }
 }

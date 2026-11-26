@@ -1,11 +1,11 @@
 {
-  "version": "1.0.18",
-  "notes": "Keeps your place when older thread replies load and preserves Jump to latest during a pending read.",
-  "pub_date": "2026-11-25T22:49:42Z",
+  "version": "1.0.19",
+  "notes": "Shows the last direct reply time and makes the open thread easier to spot in the channel.",
+  "pub_date": "2026-11-26T07:17:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY0tvS0daWml2MmZZRmNJOGk4ZUJqN21oMUlodldoN080MTBaZThKNWVVOEZHQTdGMm1rZmgzZjE5RjFjM28xNngyZ0lSZ0l4c0RralFqRWpuVllrNHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQ2ODcyCWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjE4LTM1MWUzOTdjLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMTgKVDlCMC8xT2VsenFmY3l3M0dldnc2K0tMYXdiOGVGTWJFQzVYWmd6dHB0a3ZkZWtJbjRqcncyUW9uampNNnZwQ200emNwME11aUh5ckZyenhmK2VqQ3c9PQo=",
-      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.18/AI-Mee-Command-1.0.18-351e397c.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK21xVjRlNW5hY09jYlZHYk8xNkR5a2hyRUhYR25WMjV5NHBjKzlaWWUydGd2L3ZiWlNyZWY2ZHAzcmE2R3E1czk5YUROZUtRdjlzVktSaWlPSzl6OHRjaUJEYm4wTEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njc3NDE1CWZpbGU6QUktTWVlLUNvbW1hbmQtMS4wLjE5LTA0YmI3NzhmLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMTkKbGZCanpreTYxT3Vzblc3Q2dHTGIwSmxYcDlTVnptNkNDaGs5eERqcmNQMjdzRnI5Sy9zVkJsRzRURFNQZWVtaU5JYm5zM0VOZjBqTTJDTXlYbGxNQ2c9PQo=",
+      "url": "https://github.com/Long-Vo23/ai-mee-buzz-updates/releases/download/ai-mee-command-v1.0.19/AI-Mee-Command-1.0.19-04bb778f.app.tar.gz"
     }
   }
 }
